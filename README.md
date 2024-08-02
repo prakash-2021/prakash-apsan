@@ -29,3 +29,6 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 # prakash-apsan
+
+
+Check This Link For Figma: [Figma](https://www.figma.com/design/4Urs8WkF3upgQVg6K8gxI6/Ideas?node-id=0-1&t=GAmfjVqG8gFXWn9b-1)
